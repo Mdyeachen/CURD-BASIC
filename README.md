@@ -1,6 +1,7 @@
 # CURD-BASIC
 
-url : 
+url :
+
     port : 3000
     api : api/product or api/product/:id
 
@@ -12,11 +13,18 @@ Post Field :
     image: String
 
 Creadit : 
+    
     EXPRESS.JS
     MONGODB
     MONGOOSE
     DOTENV
     nodemon
+
+Doc: 
+create a .env file
+
+    PORT=3000
+    MONGO_URI="mongodb url"
 
 
 youtube link : 
